@@ -9,7 +9,7 @@ JPA, you can just make the necessary changes and have the
 
 Url | Request | Response
 :---: | :---: | :---:
- `/items` | **GET** | `[{"id":"orange","name":"Orange","description":"This is a Citric Fruit","category":"Fruit"}]`
+ `localhost:8080/items` | **GET** | `[{"id":"orange","name":"Orange","description":"This is a Citric Fruit","category":"Fruit"}]`
 
 #### Maven Commands
 
