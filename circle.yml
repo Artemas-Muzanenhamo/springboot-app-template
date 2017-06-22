@@ -10,5 +10,3 @@ dependencies:
     - mvn --version
     - mvn clean 
     - mvn test -e
-  cache_directories:
-    - ~/.zinc
