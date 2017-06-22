@@ -1,5 +1,7 @@
 # SpringBoot-App-Template
 
+[![CircleCI](https://circleci.com/gh/Artemas-Muzanenhamo/springboot-app-template.svg?style=svg)](https://circleci.com/gh/Artemas-Muzanenhamo/springboot-app-template)
+
 This is a template SpringBoot application to be used 
 for absolutely anything. Of course you can generate a project
 tailored to suit your needs via the initializer 
