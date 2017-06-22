@@ -1,9 +1,7 @@
 # SpringBoot-App-Template-MVC
 
 [![GitHub forks](https://img.shields.io/github/forks/Artemas-Muzanenhamo/springboot-app-template.svg?style=flat-square)](https://github.com/Artemas-Muzanenhamo/springboot-app-template)
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/ArtemasPrime.svg?style=social&label=Follow)](https://twitter.com/ArtemasPrime)
-
 [![CircleCI](https://circleci.com/gh/Artemas-Muzanenhamo/springboot-app-template/tree/feature%2FSpringBoot-Basic-API-Template.svg?style=svg)](https://circleci.com/gh/Artemas-Muzanenhamo/springboot-app-template/tree/feature%2FSpringBoot-Basic-API-Template)
 
 /Artemas-Muzanenhamo/springboot-app-template/tree/feature/SpringBoot-Basic-API-Template
