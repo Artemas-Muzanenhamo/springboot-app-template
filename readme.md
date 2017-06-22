@@ -1,5 +1,9 @@
 # SpringBoot-App-Template-MVC
 
+[![GitHub forks](https://img.shields.io/github/forks/Artemas-Muzanenhamo/springboot-app-template.svg?style=flat-square)](https://github.com/Artemas-Muzanenhamo/springboot-app-template)
+
+[![CircleCI token](https://img.shields.io/circleci/project/github/RedSparr0w/node-csgo-parser/master.svg?style=flat-square)](https://github.com/Artemas-Muzanenhamo/springboot-app-template)
+
 This is a template SpringBoot application with a simple API that 
 retrives some items from a `Service`. Should you wish to use 
 JPA, you can just make the necessary changes and have the 
